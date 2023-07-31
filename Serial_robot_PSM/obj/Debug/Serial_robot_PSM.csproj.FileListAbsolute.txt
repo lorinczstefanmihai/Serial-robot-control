@@ -1,0 +1,10 @@
+C:\Users\lorin\OneDrive\Desktop\facultate\Anu_4\PSM\ROBOT_PROIECT\Serial_robot_PSM\bin\Debug\Serial_robot_PSM.exe.config
+C:\Users\lorin\OneDrive\Desktop\facultate\Anu_4\PSM\ROBOT_PROIECT\Serial_robot_PSM\bin\Debug\Serial_robot_PSM.exe
+C:\Users\lorin\OneDrive\Desktop\facultate\Anu_4\PSM\ROBOT_PROIECT\Serial_robot_PSM\bin\Debug\Serial_robot_PSM.pdb
+C:\Users\lorin\OneDrive\Desktop\facultate\Anu_4\PSM\ROBOT_PROIECT\Serial_robot_PSM\obj\Debug\Serial_robot_PSM.csprojAssemblyReference.cache
+C:\Users\lorin\OneDrive\Desktop\facultate\Anu_4\PSM\ROBOT_PROIECT\Serial_robot_PSM\obj\Debug\Serial_robot_PSM.Form1.resources
+C:\Users\lorin\OneDrive\Desktop\facultate\Anu_4\PSM\ROBOT_PROIECT\Serial_robot_PSM\obj\Debug\Serial_robot_PSM.Properties.Resources.resources
+C:\Users\lorin\OneDrive\Desktop\facultate\Anu_4\PSM\ROBOT_PROIECT\Serial_robot_PSM\obj\Debug\Serial_robot_PSM.csproj.GenerateResource.cache
+C:\Users\lorin\OneDrive\Desktop\facultate\Anu_4\PSM\ROBOT_PROIECT\Serial_robot_PSM\obj\Debug\Serial_robot_PSM.csproj.CoreCompileInputs.cache
+C:\Users\lorin\OneDrive\Desktop\facultate\Anu_4\PSM\ROBOT_PROIECT\Serial_robot_PSM\obj\Debug\Serial_robot_PSM.exe
+C:\Users\lorin\OneDrive\Desktop\facultate\Anu_4\PSM\ROBOT_PROIECT\Serial_robot_PSM\obj\Debug\Serial_robot_PSM.pdb

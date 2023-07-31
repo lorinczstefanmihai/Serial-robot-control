@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30309.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Serial_robot_PSM", "Serial_robot_PSM.csproj", "{9C411349-79FB-4B44-8737-407921D2842B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9C411349-79FB-4B44-8737-407921D2842B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C411349-79FB-4B44-8737-407921D2842B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C411349-79FB-4B44-8737-407921D2842B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C411349-79FB-4B44-8737-407921D2842B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {708EE6CD-8996-4A2E-BAA4-03B3A035CA00}
+	EndGlobalSection
+EndGlobal
